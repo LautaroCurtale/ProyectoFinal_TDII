@@ -1,0 +1,15 @@
+display_rtc_i2c.c:7:16:BCD_to_Dec	16	static
+display_rtc_i2c.c:11:6:display_i2c_write_byte	40	static
+display_rtc_i2c.c:24:6:RTC_WriteRegister	48	static
+display_rtc_i2c.c:39:9:RTC_ReadRegister	56	static
+display_rtc_i2c.c:63:6:RTC_Inicializacion	24	static
+display_rtc_i2c.c:73:6:RTC_ObtenerHora	40	static
+display_rtc_i2c.c:97:6:MostrarPantallaNormal	104	static
+display_rtc_i2c.c:143:6:EditarHorarios	112	static
+display_rtc_i2c.c:490:6:LCD_SendByte	32	static
+display_rtc_i2c.c:500:6:LCD_SetCursor	48	static
+display_rtc_i2c.c:506:6:LCD_Char	16	static
+display_rtc_i2c.c:510:6:LCD_Print	16	static
+display_rtc_i2c.c:516:6:LCD_Clear	8	static
+display_rtc_i2c.c:520:6:LCD_ToggleEnable	16	static
+display_rtc_i2c.c:529:6:LCD_Init	8	static

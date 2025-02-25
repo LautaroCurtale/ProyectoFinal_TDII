@@ -1,0 +1,15 @@
+core_cm0plus.h:741:22:__NVIC_EnableIRQ	16	static
+fsl_clock.h:441:20:CLOCK_EnableClock	16	static
+fsl_clock.h:452:20:CLOCK_DisableClock	16	static
+fsl_clock.h:463:20:CLOCK_Select	16	static
+fsl_usart.h:387:20:USART_EnableInterrupts	16	static
+fsl_usart.h:558:23:USART_ReadByte	16	static
+bluetooth.c:8:6:init_SWM_USART_DEFAULT	8	static
+bluetooth.c:17:6:Bluetooth_Init	24	static
+bluetooth.c:34:6:Bluetooth_SendChar	16	static
+bluetooth.c:38:6:Bluetooth_SendFlag	16	static
+bluetooth.c:42:6:Bluetooth_SendHorario	64	static
+bluetooth.c:57:9:extract_2_digits	16	static
+bluetooth.c:61:6:Bluetooth_ReceiveHorario	56	static
+bluetooth.c:95:6:USART1_IRQHandler	24	static
+bluetooth.c:114:6:reset_usart	16	static

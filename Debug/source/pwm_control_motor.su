@@ -1,0 +1,6 @@
+fsl_clock.h:441:20:CLOCK_EnableClock	16	static
+fsl_clock.h:452:20:CLOCK_DisableClock	16	static
+fsl_sctimer.h:484:20:SCTIMER_StartTimer	16	static
+pwm_control_motor.c:5:6:PWM_Init	48	static
+pwm_control_motor.c:28:6:PWM_SetDutyCycle	16	static
+pwm_control_motor.c:36:6:PWM_Start	32	static

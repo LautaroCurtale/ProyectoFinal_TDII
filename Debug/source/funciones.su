@@ -1,0 +1,16 @@
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+core_cm0plus.h:1053:26:SysTick_Config	16	static
+fsl_clock.h:441:20:CLOCK_EnableClock	16	static
+fsl_clock.h:452:20:CLOCK_DisableClock	16	static
+fsl_clock.h:463:20:CLOCK_Select	16	static
+fsl_gpio.h:153:20:GPIO_PinWrite	24	static
+fsl_gpio.h:172:24:GPIO_PinRead	24	static
+funciones.c:4:6:GPIO_Inicializacion	16	static
+funciones.c:19:6:SysTick_Inicializacion	8	static
+funciones.c:23:6:SysTick_Handler	8	static
+funciones.c:32:6:delay_ms	16	static
+funciones.c:38:6:I2C_Inicializacion	32	static
+funciones.c:52:6:keypad_obtener_tecla	32	static
+funciones.c:69:6:keypad_esperar_tecla	24	static
+funciones.c:77:5:keypad_esperar_numero	40	static
+funciones.c:93:6:iniciar_motor	32	static
